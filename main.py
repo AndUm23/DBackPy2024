@@ -21,7 +21,7 @@ try:
         print("Suma: " + str(suma(a,b)))
         
     elif option == 2:
-        print("Resta: " + str(resta()))
+        print("Resta: " + str(resta(a,b)))
         
     elif option == 3:
         print("Division: " + str(division(a,b)))
